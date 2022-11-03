@@ -1,0 +1,27 @@
+.NavIn,
+.NavSign {
+  color: rgba(5, 38, 130, 0.899);
+  float: right;
+  margin: 1rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.NavIn {
+  padding-right: 2rem;
+}
+.NavOut {
+  color: rgba(5, 38, 130, 0.899);
+  float: right;
+  padding-top: 1rem;
+  margin: 1rem 1rem;
+
+  border: none;
+  background: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 900;
+  cursor: pointer;
+}

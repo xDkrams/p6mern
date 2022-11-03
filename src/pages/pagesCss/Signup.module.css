@@ -1,0 +1,28 @@
+.Btn {
+  padding: 0.5rem, auto;
+  margin-top: 0.8rem auto;
+  margin-bottom: 0.8rem auto;
+  width: 100%;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.Btn {
+  background-color: white;
+  color: black;
+  border: 2px solid rgba(5, 38, 130, 0.899);
+}
+
+.Btn:hover {
+  background-color: rgba(5, 38, 130, 0.899);
+  color: white;
+}
